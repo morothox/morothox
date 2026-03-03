@@ -1,65 +1,191 @@
-<div align="center">
-
-```
-███╗   ███╗ ██████╗ ██████╗  ██████╗ ████████╗██╗  ██╗ ██████╗ ██╗  ██╗
-████╗ ████║██╔═══██╗██╔══██╗██╔═══██╗╚══██╔══╝██║  ██║██╔═══██╗╚██╗██╔╝
-██╔████╔██║██║   ██║██████╔╝██║   ██║   ██║   ███████║██║   ██║ ╚███╔╝
-██║╚██╔╝██║██║   ██║██╔══██╗██║   ██║   ██║   ██╔══██║██║   ██║ ██╔██╗
-██║ ╚═╝ ██║╚██████╔╝██║  ██║╚██████╔╝   ██║   ██║  ██║╚██████╔╝██╔╝ ██╗
-╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝ ╚═════╝    ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝
-```
-
-### Full Stack Architect | Python Specialist | Dark Side Developer
-
-<img src="https://img.shields.io/badge/STATUS-BUILDING-00FF00?style=for-the-badge&labelColor=0a0a0a&logo=statuspage&logoColor=white">
-<img src="https://img.shields.io/badge/STACK-FULL-FF3636?style=for-the-badge&labelColor=0a0a0a&logo=stackshare&logoColor=white">
-<img src="https://img.shields.io/badge/SIDE-DARK-8B0000?style=for-the-badge&labelColor=0a0a0a&logo=starwars&logoColor=white">
-
-[![GitHub Followers](https://img.shields.io/github/followers/Morothox?style=social&logo=github)](https://github.com/Morothox)
-[![Profile Views](https://komarev.com/ghpvc/?username=Morothox&color=red&style=flat-square&label=Visitors)](https://github.com/Morothox)
-
-</div>
-
----
-
-## 👨‍💻 About Me
-
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Morothox"
-        self.role = "Full Stack Architect"
-        self.language_spoken = ["Python", "JavaScript", "TypeScript", "en_US", "de_DE"]
-        self.code_philosophy = "Clean code is happy code"
-
-    def say_hi(self):
-        print("""
-        Hey there! I'm a developer who believes in building software that matters.
-
-        My mission: Create elegant solutions to complex problems.
-        My method: Full-stack development with a focus on quality and UX.
-        My motto: "The Force is strong with well-written code."
-        """)
-
-dev = Developer()
-dev.say_hi()
-```
-
-**Currently crafting:** Enterprise-grade applications that solve real-world problems
-**Passionate about:** Clean architecture, automation, and making complex systems simple
-**Always learning:** New technologies, best practices, and the art of software craftsmanship
-
----
+<img src="https://capsule-render.vercel.app/api?type=venom&color=8B0000,1a0000,D4AF37,8B0000&height=200&section=header&text=THE%20GOD%20OF%20WAR&fontSize=60&fontColor=D4AF37&animation=fadeIn&fontAlignY=55&desc=Ghost%20of%20Sparta%20%7C%20Cyber%20Warrior%20%7C%20Digital%20Destroyer&descAlignY=78&descSize=16" width="100%">
 
 <div align="center">
 
-## ⚡ Featured Projects
+```
+ ██████╗ ███╗   ███╗███████╗ ██████╗  █████╗      ██╗
+██╔═══██╗████╗ ████║██╔════╝██╔════╝ ██╔══██╗    ██╔╝
+██║   ██║██╔████╔██║█████╗  ██║  ███╗███████║   ██╔╝ 
+██║   ██║██║╚██╔╝██║██╔══╝  ██║   ██║██╔══██║  ██╔╝  
+╚██████╔╝██║ ╚═╝ ██║███████╗╚██████╔╝██║  ██║ ██╔╝   
+ ╚═════╝ ╚═╝     ╚═╝╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝    
+```
 
-### Building Solutions That Matter
-
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=3000&pause=800&color=8B0000&center=true&vCenter=true&width=700&lines=☠+GHOST+OF+SPARTA+%7C+CYBER+WARRIOR+☠;⚔+Penetration+Tester+%7C+Red+Team+Operator+⚔;🩸+Breaker+of+Systems+%7C+Forger+of+Exploits+🩸;Ω+The+cycle+of+vengeance+begins+in+the+terminal+Ω;%22BOY...+close+the+vulnerability%22+—+Kratos" alt="Typing SVG" />
 
 <br>
+
+<img src="https://img.shields.io/badge/⚔_GHOST_OF_SPARTA-8B0000?style=for-the-badge&labelColor=0a0000&color=8B0000&logoColor=D4AF37">
+<img src="https://img.shields.io/badge/Ω_CHAOS_MODE-ACTIVE-D4AF37?style=for-the-badge&labelColor=1a0000&color=D4AF37">
+<img src="https://img.shields.io/badge/🩸_THREAT_LEVEL-KRATOS-CC0000?style=for-the-badge&labelColor=0a0000&color=CC0000">
+
+<br><br>
+
+[![GitHub Followers](https://img.shields.io/github/followers/TheGod0fWar?style=social&logo=github&logoColor=red)](https://github.com/TheGod0fWar)
+[![Profile Views](https://komarev.com/ghpvc/?username=TheGod0fWar&color=8B0000&style=flat-square&label=Warriors+who+dared+to+visit)](https://github.com/TheGod0fWar)
+
+</div>
+
+---
+
+<div align="center">
+
+## ⚔ IDENTITY OF THE GHOST ⚔
+
+</div>
+
+```bash
+┌─[GHOST@SPARTA]─[~/cyber-realm]
+└──╼ $ whoami --full-profile
+
+╔══════════════════════════════════════════════════════════════════╗
+║  ██████╗ ██╗  ██╗ ██████╗ ███████╗████████╗                    ║
+║ ██╔════╝ ██║  ██║██╔═══██╗██╔════╝╚══██╔══╝                    ║
+║ ██║  ███╗███████║██║   ██║███████╗   ██║                        ║
+║ ██║   ██║██╔══██║██║   ██║╚════██║   ██║                        ║
+║ ╚██████╔╝██║  ██║╚██████╔╝███████║   ██║                        ║
+║  ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚══════╝   ╚═╝  [ OF SPARTA ]        ║
+╚══════════════════════════════════════════════════════════════════╝
+
+  NAME     : TheGod0fWar  ——  Ghost of the Digital Realm
+  ROLE     : Cyber Warrior | Penetration Tester | Red Team Operator
+  ORIGIN   : Sparta → Midgard → Your Network
+  WEAPON   : Leviathan Axe (Python) + Blades of Chaos (Bash/C)
+  MISSION  : Hunt. Breach. Dominate. Patch. Repeat.
+  STATUS   : 🔴 ACTIVE THREAT
+  WAR MARK : ░░▓▓ ASH-WHITE FINGERS ON A DARK KEYBOARD ▓▓░░
+```
+
+---
+
+<div align="center">
+
+## 🩸 THE SPARTAN'S IDENTITY 🩸
+
+</div>
+
+```python
+class GhostOfSparta:
+    """
+    ╔═══════════════════════════════════════════════╗
+    ║  I am Kratos. God of War. Ghost of Sparta.    ║
+    ║  In cyberspace, I am something worse —        ║
+    ║  I am the one who finds the vulnerability.   ║
+    ╚═══════════════════════════════════════════════╝
+    """
+
+    def __init__(self):
+        self.alias         = "TheGod0fWar"
+        self.title         = "Ghost of the Cyber Realm"
+        self.specialties   = [
+            "Penetration Testing",
+            "Red Team Operations",
+            "Exploit Development",
+            "Reverse Engineering",
+            "OSINT & Threat Intelligence",
+            "Secure Application Development",
+            "CTF Champion",
+        ]
+        self.blades        = ["Python", "Bash", "C", "Assembly"]  # Blades of Chaos
+        self.axe           = "Leviathan (Linux/Kali)"              # The Leviathan Axe
+        self.shield        = ["Firewalls", "IDS/IPS", "SIEM"]      # Guardian Shield
+        self.war_cry       = "BOY... close the port. NOW."
+
+    def attack(self, target: str) -> str:
+        return f"[BREACHED] {target} — No gods. No kings. No patches left."
+
+    def philosophy(self) -> str:
+        return """
+        The greatest chains are the ones you cannot see.
+        In cybersecurity — they are the misconfigurations,
+        the unpatched CVEs, the blind trust.
+        I am the Ghost who finds them all.
+        """
+
+kratos = GhostOfSparta()
+kratos.attack("your_network")
+```
+
+---
+
+<div align="center">
+
+## 🗡️ WEAPONS ARSENAL — THE LEVIATHAN AXE & BLADES OF CHAOS 🗡️
+
+<br>
+
+### ⚔ OFFENSIVE ARSENAL — BLADES OF CHAOS ⚔
+
+</div>
+
+<div align="center">
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=0a0000)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white&labelColor=0a0000)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white&labelColor=0a0000)
+![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white&labelColor=0a0000)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white&labelColor=0a0000)
+![Ghidra](https://img.shields.io/badge/Ghidra-FF0000?style=for-the-badge&logo=nsa&logoColor=white&labelColor=0a0000)
+
+![SQLmap](https://img.shields.io/badge/SQLmap-CC0000?style=for-the-badge&logo=database&logoColor=white&labelColor=0a0000)
+![Aircrack--ng](https://img.shields.io/badge/Aircrack--ng-D4AF37?style=for-the-badge&logo=wifi&logoColor=black&labelColor=0a0000)
+![John the Ripper](https://img.shields.io/badge/John_the_Ripper-8B0000?style=for-the-badge&logo=lock&logoColor=white&labelColor=0a0000)
+![Hashcat](https://img.shields.io/badge/Hashcat-CC2233?style=for-the-badge&logo=security&logoColor=white&labelColor=0a0000)
+![Hydra](https://img.shields.io/badge/Hydra-8B0000?style=for-the-badge&logo=thunderstorm&logoColor=white&labelColor=0a0000)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-5C2D91?style=for-the-badge&logo=owasp&logoColor=white&labelColor=0a0000)
+
+</div>
+
+<div align="center">
+
+### 🪓 LEVIATHAN AXE — CODING ARSENAL 🪓
+
+</div>
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-8B0000?style=for-the-badge&logo=python&logoColor=D4AF37&labelColor=0a0000)
+![Bash](https://img.shields.io/badge/Bash-D4AF37?style=for-the-badge&logo=gnubash&logoColor=black&labelColor=0a0000)
+![C](https://img.shields.io/badge/C-CC0000?style=for-the-badge&logo=c&logoColor=white&labelColor=0a0000)
+![Assembly](https://img.shields.io/badge/Assembly-8B0000?style=for-the-badge&logo=assemblyscript&logoColor=white&labelColor=0a0000)
+![JavaScript](https://img.shields.io/badge/JavaScript-D4AF37?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0a0000)
+![TypeScript](https://img.shields.io/badge/TypeScript-CC0000?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0a0000)
+![Go](https://img.shields.io/badge/Go-8B0000?style=for-the-badge&logo=go&logoColor=white&labelColor=0a0000)
+![Rust](https://img.shields.io/badge/Rust-D4AF37?style=for-the-badge&logo=rust&logoColor=black&labelColor=0a0000)
+
+</div>
+
+<div align="center">
+
+### 🛡️ GUARDIAN SHIELD — DEFENSIVE STACK 🛡️
+
+</div>
+
+<div align="center">
+
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=D4AF37&labelColor=0a0000)
+![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white&labelColor=0a0000)
+![Snort](https://img.shields.io/badge/Snort-CC0000?style=for-the-badge&logo=snort&logoColor=white&labelColor=0a0000)
+![Suricata](https://img.shields.io/badge/Suricata-D4AF37?style=for-the-badge&logo=suricata&logoColor=black&labelColor=0a0000)
+![OpenVAS](https://img.shields.io/badge/OpenVAS-8B0000?style=for-the-badge&logo=openvas&logoColor=white&labelColor=0a0000)
+![Nessus](https://img.shields.io/badge/Nessus-00B388?style=for-the-badge&logo=tenable&logoColor=white&labelColor=0a0000)
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0a0000)
+![Linux](https://img.shields.io/badge/Linux-D4AF37?style=for-the-badge&logo=linux&logoColor=black&labelColor=0a0000)
+![Git](https://img.shields.io/badge/Git-8B0000?style=for-the-badge&logo=git&logoColor=white&labelColor=0a0000)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0a0000)
+![Flask](https://img.shields.io/badge/Flask-D4AF37?style=for-the-badge&logo=flask&logoColor=black&labelColor=0a0000)
+![Tor](https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=torproject&logoColor=white&labelColor=0a0000)
+
+</div>
+
+---
+
+<div align="center">
+
+## ⚔ WAR MISSIONS — BATTLES WON ⚔
+
+</div>
 
 <div align="center">
 
@@ -67,109 +193,70 @@ dev.say_hi()
 <tr>
 <td width="50%" valign="top">
 
-### 🕯️ Altar Server Scheduling System
+<div align="center">
 
-<a href="https://github.com/Morothox/altar-server-scheduling">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white">
+### 🔐 VAULT OF SPARTA — Password Manager
+
+<a href="https://github.com/TheGod0fWar/passwordmanager">
+<img src="https://img.shields.io/badge/⚔_ENTER_THE_VAULT-8B0000?style=for-the-badge&logo=github&logoColor=D4AF37">
 </a>
-<img src="https://img.shields.io/badge/STATUS-ACTIVE-00FF00?style=for-the-badge&labelColor=0a0a0a">
 
-**Enterprise-grade scheduling and management platform** designed for religious organizations. This comprehensive system revolutionizes how altar server schedules are created, managed, and communicated.
+<img src="https://img.shields.io/badge/STATUS-🔴_ACTIVE-8B0000?style=for-the-badge&labelColor=0a0000">
 
-#### ✨ Key Features
+</div>
 
-- **Smart Scheduling Engine**
-  - Automated conflict detection
-  - Intelligent assignment algorithms
-  - Multi-role management
-  - Holiday and event handling
+> *"Your passwords are your weakest armour, boy. Let me forge you something stronger."*
 
-- **Modern Interface**
-  - Intuitive dashboard
-  - Drag-and-drop schedule builder
-  - Mobile-responsive design
-  - Real-time updates
+**Military-grade password vault** forged with AES-256 — the same discipline Kratos uses to chain the gods. Zero-knowledge. Zero mercy for attackers.
 
-- **Communication Hub**
-  - Automated notifications
-  - Email/SMS integration
-  - Calendar exports (iCal, Google)
-  - Reminder system
+**⚔ Battle Features:**
+- 🛡️ AES-256 encryption — unbreakable as the Leviathan Axe
+- 🔥 Zero-knowledge architecture — not even Odin can read it
+- 💀 Master password hashing via Argon2/bcrypt
+- ⚡ Cryptographically secure password generator
+- 🩸 Breach detection — alerts before enemies strike
+- 🪓 Secure notes — for Spartan intelligence records
 
-- **Administration**
-  - User management
-  - Role-based permissions
-  - Analytics and reporting
-  - Backup and audit logs
+**🗡️ Forged With:**
 
-#### 🛠️ Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-#### 🎯 Impact
-
-- Reduces scheduling time by **90%**
-- Serves multiple parishes simultaneously
-- Eliminates double-booking errors
-- Streamlines communication workflows
+![Python](https://img.shields.io/badge/Python-8B0000?style=flat-square&logo=python&logoColor=D4AF37)
+![Flask](https://img.shields.io/badge/Flask-D4AF37?style=flat-square&logo=flask&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-CC0000?style=flat-square&logo=sqlite&logoColor=white)
+![AES-256](https://img.shields.io/badge/AES--256-8B0000?style=flat-square&logo=letsencrypt&logoColor=D4AF37)
 
 </td>
 <td width="50%" valign="top">
 
-### 🔐 Secure Password Manager
+<div align="center">
 
-<a href="https://github.com/Morothox/passwordmanager">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white">
+### 🕯️ TEMPLE OF SPARTA — Altar Scheduler
+
+<a href="https://github.com/TheGod0fWar/altar-server-scheduling">
+<img src="https://img.shields.io/badge/⚔_ENTER_THE_TEMPLE-D4AF37?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<img src="https://img.shields.io/badge/STATUS-ACTIVE-00FF00?style=for-the-badge&labelColor=0a0a0a">
 
-**Military-grade password management solution** with a focus on security, privacy, and user experience. Your digital vault protected by best-in-class encryption.
+<img src="https://img.shields.io/badge/STATUS-🟡_ACTIVE-D4AF37?style=for-the-badge&labelColor=0a0000">
 
-#### ✨ Key Features
+</div>
 
-- **Fort Knox Security**
-  - AES-256 encryption
-  - Zero-knowledge architecture
-  - Master password hashing (bcrypt/Argon2)
-  - Encrypted local storage
+> *"Even gods need order, boy. Chaos without structure is just destruction."*
 
-- **Smart Password Tools**
-  - Cryptographically secure generator
-  - Strength analyzer
-  - Breach detection
-  - Password history
+**Enterprise-grade scheduling engine** — because even a Spartan warrior plans his battles. Automated. Precise. Merciless in its efficiency.
 
-- **User Experience**
-  - Clean, intuitive interface
-  - Quick search and filtering
-  - Copy-to-clipboard with auto-clear
-  - Category organization
+**⚔ Battle Features:**
+- 🧠 Intelligent conflict detection algorithms
+- ⚡ Automated assignment — no manual errors
+- 📡 Real-time notifications & calendar sync
+- 🔐 Role-based access control
+- 📊 Battle analytics & audit logs
+- 🗺️ Multi-parish command & control
 
-- **Advanced Features**
-  - Secure notes storage
-  - Auto-lock functionality
-  - Import/Export capabilities
-  - Password sharing (encrypted)
+**🗡️ Forged With:**
 
-#### 🛠️ Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Crypto](https://img.shields.io/badge/Cryptography-FF6B6B?style=flat-square&logo=letsencrypt&logoColor=white)
-
-#### 🎯 Security First
-
-- **End-to-end encryption** - Your data, your key
-- **No cloud dependencies** - Fully offline capable
-- **Open source** - Transparent and auditable
-- **Regular security audits** - Constantly improving
+![Python](https://img.shields.io/badge/Python-8B0000?style=flat-square&logo=python&logoColor=D4AF37)
+![Flask](https://img.shields.io/badge/Flask-D4AF37?style=flat-square&logo=flask&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-CC0000?style=flat-square&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-D4AF37?style=flat-square&logo=javascript&logoColor=black)
 
 </td>
 </tr>
@@ -181,26 +268,20 @@ dev.say_hi()
 
 <div align="center">
 
-## 🛠️ Technology Arsenal
+## 📊 WAR STATISTICS — THE BATTLE RECORD 📊
 
-### Languages & Frameworks
+<br>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TheGod0fWar&show_icons=true&theme=radical&hide_border=true&bg_color=0D0000&title_color=D4AF37&icon_color=8B0000&text_color=C9D1D9&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheGod0fWar&layout=compact&theme=radical&hide_border=true&bg_color=0D0000&title_color=D4AF37&text_color=C9D1D9&langs_count=8" />
 
-### Databases & Tools
+<br>
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TheGod0fWar&theme=radical&hide_border=true&background=0D0000&stroke=8B0000&ring=D4AF37&fire=CC0000&currStreakLabel=D4AF37&sideLabels=C9D1D9" width="55%" />
+
+<br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=TheGod0fWar&theme=radical&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8" width="70%" />
 
 </div>
 
@@ -208,87 +289,106 @@ dev.say_hi()
 
 <div align="center">
 
-## 📊 GitHub Analytics
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Morothox&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF3636&icon_color=FF3636&text_color=C9D1D9&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Morothox&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF3636&text_color=C9D1D9&langs_count=8" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Morothox&theme=radical&hide_border=true&background=0D1117&stroke=FF3636&ring=FF3636&fire=FF3636&currStreakLabel=C9D1D9" width="48%" />
-<img src="https://github-profile-trophy.vercel.app/?username=Morothox&theme=radical&no-frame=true&no-bg=false&column=4&margin-w=5&margin-h=5" width="48%" />
+## 🩸 THE GHOST'S CODE — SPARTAN DOCTRINE 🩸
 
 </div>
 
----
-
-## 💡 Development Philosophy
-
 ```python
-class CodingPrinciples:
-    """The way of the developer"""
+class SpartanDoctrine:
+    """
+    ╔═══════════════════════════════════════════════════════════════╗
+    ║   "A Spartan does not fear the dark. He owns it."            ║
+    ║   "The greatest vulnerability is the one you trusted."       ║
+    ║   "BOY... enumerate before you attack."                      ║
+    ╚═══════════════════════════════════════════════════════════════╝
+    """
 
-    principles = {
-        "clean_code": "Write code for humans first, machines second",
-        "testing": "Untested code is broken code",
-        "documentation": "Future you will thank present you",
-        "security": "Security is not optional, it's mandatory",
-        "simplicity": "Complexity is the enemy of execution",
-        "iteration": "Ship, learn, improve, repeat"
+    WAR_LAWS = {
+        "recon_first"     : "Know thy enemy's network before the first packet",
+        "no_mercy_bugs"   : "Every CVE is a god waiting to fall",
+        "assume_breach"   : "Act as if they are already inside — because they are",
+        "zero_trust"      : "Trust no packet. Trust no process. Trust no god.",
+        "patch_or_die"    : "An unpatched system is a gravestone with a hostname",
+        "encrypt_all"     : "Plaintext is heresy. AES-256 is the only prayer.",
+        "opsec_always"    : "Loose logs sink ships. Loose keys end empires.",
     }
 
     @staticmethod
-    def develop():
-        return """
-        1. Understand the problem deeply
-        2. Design before you code
-        3. Write clean, testable code
-        4. Refactor mercilessly
-        5. Deploy with confidence
-        """
+    def attack_flow() -> list:
+        return [
+            "1. RECON    — Learn the battlefield (OSINT, Nmap, Shodan)",
+            "2. SCAN     — Find the cracks in their armour (Nessus, OpenVAS)",
+            "3. EXPLOIT  — Strike like the Blades of Chaos (Metasploit, custom)",
+            "4. ESCALATE — Ascend to godhood (PrivEsc, lateral movement)",
+            "5. PERSIST  — Establish your throne (C2, backdoors)",
+            "6. REPORT   — Document the fallen gods (full pentest report)",
+            "7. REMEDIATE— Forge stronger armour for the defeated",
+        ]
 
     @staticmethod
-    def debug():
-        return "The Force is strong with console.log()"
+    def kratos_says() -> str:
+        return "BOY... close the port. NOW."
+
+ghost = SpartanDoctrine()
+for law, decree in ghost.WAR_LAWS.items():
+    print(f"⚔  [{law.upper()}]: {decree}")
 ```
 
 ---
 
 <div align="center">
 
-## 🎯 What I'm Up To
+## 🔴 CURRENT CAMPAIGNS — ACTIVE BATTLES 🔴
 
 </div>
 
 ```bash
-$ cat current_status.sh
+┌─[GHOST@SPARTA]─[~/active-campaigns]
+└──╼ $ cat war_journal.sh
 
 #!/bin/bash
+# ═══════════════════════════════════════════════
+#  KRATOS WAR JOURNAL — CURRENT OPERATIONS
+# ═══════════════════════════════════════════════
 
-echo "🚀 Building: Full-stack applications with real-world impact"
-echo "📚 Learning: Advanced system design and architecture patterns"
-echo "🤝 Contributing: Open source projects that make a difference"
-echo "💪 Training: Hyrox competitions - where code meets cardio"
-echo "🔧 Automating: Everything that can be automated"
-echo "🌟 Exploring: AI/ML integration in web applications"
+echo "⚔  HUNTING  : Advanced persistent threat simulation & red teaming"
+echo "🪓  FORGING  : Custom exploit tools with Python & C"
+echo "🛡️  LEARNING  : OSCP / CEH / CISSP certification path"
+echo "💀  BREAKING : CTF challenges — gods fall every weekend"
+echo "🔥  BUILDING : Secure-by-design applications (Flask + crypto)"
+echo "🩸  STUDYING : Malware analysis & reverse engineering"
+echo "Ω   PURSUING : Zero-days in forgotten corners of the internet"
+
+# — Kratos never stops. Neither do I.
 ```
 
 ---
 
 <div align="center">
 
-## 📬 Let's Connect
+## ⚡ SUMMON THE GHOST — CONTACT ⚡
 
-[![GitHub](https://img.shields.io/badge/GitHub-Morothox-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Morothox)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Discord](https://img.shields.io/badge/Discord-Chat-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/your-invite)
+<br>
 
-### 💬 Open For
+[![GitHub](https://img.shields.io/badge/GitHub-TheGod0fWar-8B0000?style=for-the-badge&logo=github&logoColor=D4AF37&labelColor=0a0000)](https://github.com/TheGod0fWar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ghost_of_Sparta-D4AF37?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=0a0000)](https://linkedin.com/in/your-profile)
+[![Email](https://img.shields.io/badge/Email-Send_a_Raven-CC0000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0000)](mailto:your.email@example.com)
+[![Discord](https://img.shields.io/badge/Discord-Enter_Valhalla-8B0000?style=for-the-badge&logo=discord&logoColor=D4AF37&labelColor=0a0000)](https://discord.gg/your-invite)
 
-🤝 Collaboration on interesting projects
-💼 Freelance opportunities
-🎯 Open source contributions
-☕ Coffee and code discussions
-🧠 Knowledge sharing and mentorship
+<br>
+
+```
+╔═══════════════════════════════════════════════════╗
+║  ⚔  OPEN FOR BATTLE:                              ║
+║                                                   ║
+║  🩸  Red Team engagements & penetration testing   ║
+║  🛡️  Security audits & vulnerability assessments  ║
+║  🔐  Secure application development               ║
+║  💀  CTF team-ups & exploit research              ║
+║  🪓  Cybersecurity consulting & mentorship        ║
+║  Ω   Anything that makes systems more secure      ║
+╚═══════════════════════════════════════════════════╝
+```
 
 </div>
 
@@ -296,39 +396,46 @@ echo "🌟 Exploring: AI/ML integration in web applications"
 
 <div align="center">
 
-## 🌟 The Developer's Creed
+## 🩸 THE OATH OF THE GHOST 🩸
 
 ```
-╔════════════════════════════════════════════════════════════╗
-║                                                            ║
-║  "Any sufficiently advanced technology is                 ║
-║   indistinguishable from magic."                          ║
-║                                                            ║
-║  But we're not doing magic. We're writing code.           ║
-║  Clean, tested, documented, maintainable code.            ║
-║                                                            ║
-║  The Force will be with you. Always.                      ║
-║                                                            ║
-╚════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║    ⚔   THE SPARTAN'S CREED IN CYBERSPACE   ⚔                       ║
+║                                                                      ║
+║    "I have defeated gods, demons, and titans.                       ║
+║     A misconfigured server is a Wednesday morning."                 ║
+║                                                                      ║
+║    "I do not simply find vulnerabilities.                           ║
+║     I make systems WORTHY of standing against me."                  ║
+║                                                                      ║
+║    "The only truly secure system is one built                       ║
+║     by someone who has already broken it."                          ║
+║                                                                      ║
+║                              — Ghost of Sparta, TheGod0fWar         ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
 ```
 
 <br>
 
-⭐ **Star repositories you find useful**
-🍴 **Fork and build upon them**
-🐛 **Report issues to help improve**
-🤝 **Pull requests are always welcome**
+⚔ **Attack my repos. Find the bugs. Submit the PR.**
+🛡️ **Every issue filed is an enemy I respect.**
+🩸 **Every star given feeds the war machine.**
+🪓 **Fork it. Break it. Make it stronger.**
 
 <br>
 
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8B0000,1a0000,D4AF37&height=120&section=footer&text=Ω+GHOST+OF+SPARTA+Ω&fontSize=28&fontColor=D4AF37&animation=fadeIn&fontAlignY=65" width="100%">
+
+<div align="center">
+
 ```
-$ echo "May The Force Be With Your Code"
+Ω  [ END OF TRANSMISSION — THE GOD OF WAR AWAITS ]  Ω
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&fontSize=24&fontColor=fff&animation=twinkling" width="100%">
-
-**`[END OF TRANSMISSION]`**
-
-![Visitors](https://profile-counter.glitch.me/Morothox/count.svg)
+![Visitors](https://profile-counter.glitch.me/TheGod0fWar/count.svg)
 
 </div>
