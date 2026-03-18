@@ -6,18 +6,18 @@
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                                                                              ║
-║   ███╗   ██╗███████╗ ███████╗ ██████╗ ██╗   ██╗ █████╗ ███╗   ██╗███████╗    ║
-║   ████╗  ██║██╔════╝ ██╔════╝██╔═══██╗██║   ██║██╔══██╗████╗  ██║██╔════╝    ║
-║   ██╔██╗ ██║███████╗ ███████╗██║   ██║██║   ██║███████║██╔██╗ ██║███████╗    ║
-║   ██║╚██╗██║╚════██║ ╚════██║██║   ██║██║   ██║██╔══██║██║╚██╗██║╚════██║    ║
-║   ██║ ╚████║███████║███████║╚██████╔╝╚██████╔╝██║  ██║██║ ╚████║███████║    ║
-║   ╚═╝  ╚═══╝╚══════╝╚══════╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝    ║
-║                                                                              ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-```
+<pre>
+╔═════════════════════════════════════════════════════════════════════════════════╗
+║                                                                               ║
+║  ██████╗ ███████╗ █████╗  ███████╗ ██████╗ ██╗   ██╗███████╗ ██████╗ ███╗   ██╗║
+║  ██╔══██╗██╔════╝██╔══██╗██╔════╝██╔═══██╗██║   ██║██╔════╝██╔═══██╗████╗  ██║║
+║  ██████╔╝█████╗  ███████║███████╗██║   ██║██║   ██║███████╗██║   ██║██╔██╗ ██║║
+║  ██╔══██╗██╔══╝  ██╔══██║╚════██║██║   ██║██║   ██║╚════██║██║   ██║██║╚██╗██║║
+║  ██║  ██║███████╗██║  ██║███████║╚██████╔╝╚██████╔╝███████║╚██████╔╝██║ ╚████║║
+║  ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚══════╝ ╚═════╝  ╚═════╝ ╚══════╝ ╚═════╝ ╚═╝  ╚═══╝║
+║                                                                               ║
+╚═════════════════════════════════════════════════════════════════════════════════╝
+</pre>
 
 ### Ghost of Sparta • Cybersecurity Researcher • Red Team Operator
 
@@ -113,21 +113,6 @@ kratos = GhostOfSparta()
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&logoSize=auto)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&logoSize=auto)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&logoSize=auto)
-
-</div>
-
----
-
-<div align="center">
-
-## 📊 Battle Stats
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TheGod0fWar&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=DC143C&icon_color=FFD700&text_color=C9D1D9&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheGod0fWar&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=DC143C&text_color=C9D1D9&langs_count=6" />
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TheGod0fWar&theme=radical&hide_border=true&background=0D1117&stroke=DC143C&ring=FFD700&fire=FF6B6B&currStreakLabel=FFD700&sideLabels=C9D1D9" width="50%" />
 
 </div>
 
