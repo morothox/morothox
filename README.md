@@ -1,157 +1,54 @@
-<div align="center">
+# Hi there, I'm TheGod0fWar 👋
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=THE%20GOD%20OF%20WAR&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Ghost%20of%20Sparta%20%7C%20Cyber%20Warrior%20%7C%20Red%20Team%20Operator&descAlignY=68&descSize=20&descColor=gold" width="100%">
-
-</div>
-
-<div align="center">
-
-<pre>
-╔═════════════════════════════════════════════════════════════════════════════════╗
-║                                                                               ║
-║  ██████╗ ███████╗ █████╗  ███████╗ ██████╗ ██╗   ██╗███████╗ ██████╗ ███╗   ██╗║
-║  ██╔══██╗██╔════╝██╔══██╗██╔════╝██╔═══██╗██║   ██║██╔════╝██╔═══██╗████╗  ██║║
-║  ██████╔╝█████╗  ███████║███████╗██║   ██║██║   ██║███████╗██║   ██║██╔██╗ ██║║
-║  ██╔══██╗██╔══╝  ██╔══██║╚════██║██║   ██║██║   ██║╚════██║██║   ██║██║╚██╗██║║
-║  ██║  ██║███████╗██║  ██║███████║╚██████╔╝╚██████╔╝███████║╚██████╔╝██║ ╚████║║
-║  ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚══════╝ ╚═════╝  ╚═════╝ ╚══════╝ ╚═════╝ ╚═╝  ╚═══╝║
-║                                                                               ║
-╚═════════════════════════════════════════════════════════════════════════════════╝
-</pre>
-
-### Ghost of Sparta • Cybersecurity Researcher • Red Team Operator
-
-![Profile Views](https://komarev.com/ghpvc/?username=TheGod0fWar&color=DC143C&style=flat-square&label=Warriors+who+visited)
-[![GitHub Followers](https://img.shields.io/github/followers/TheGod0fWar?style=social&logo=github&label=Follow&logoColor=red)](https://github.com/TheGod0fWar)
-
-</div>
+I am a student deeply interested in **System Design** and **Cybersecurity**. I love exploring how complex systems work under the hood and how to make them more secure and efficient.
 
 ---
 
-<div align="center">
+### 🚀 About Me
 
-## ⚔️ Who Am I
-
-</div>
-
-```python
-class GhostOfSparta:
-    """
-    ╔═════════════════════════════════════════════════════════════════╗
-    ║  "I am what I have been made... and I will not be denied."     ║
-    ║                                       — Kratos, God of War      ║
-    ╚═════════════════════════════════════════════════════════════════╝
-    """
-
-    def __init__(self):
-        self.alias = "TheGod0fWar"
-        self.title = "Ghost of the Digital Realm"
-        self.domains = [
-            "Penetration Testing",
-            "Red Team Operations",
-            "Vulnerability Research",
-            "Exploit Development",
-            "Reverse Engineering",
-        ]
-        self.system = "Arch Linux"
-        self.philosophy = "Break systems to make them unbreakable"
-
-    def forge(self) -> str:
-        return "What doesn't kill you makes you stronger."
-
-kratos = GhostOfSparta()
-```
+- 🎓 Currently a student focusing on Computer Science.
+- 🏗️ Passionate about **System Design** and building scalable, low-level architectures.
+- 🛡️ Exploring the world of **Cybersecurity**, from binary exploitation to secure systems.
+- 🦀 Love working with **Rust** for its safety and performance guarantees.
+- 💻 Experienced in **C**, **C++**, and **Python**.
 
 ---
 
-<div align="center">
+### 🛠️ Tech Stack
 
-## 🪓 Arsenal — Weapons of War
+<p align="left">
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+</p>
 
-### ⚔️ Languages
-
-</div>
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&logoSize=auto)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black&logoSize=auto)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&logoSize=auto)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white&logoSize=auto)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&logoSize=auto)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white&logoSize=auto)
-
-</div>
-
-<div align="center">
-
-### 🛡️ Security Tools
-
-</div>
-
-<div align="center">
-
-![Kali Linux](https://img.shields.io/badge/Kali-557C94?style=for-the-badge&logo=kalilinux&logoColor=white&logoSize=auto)
-![Burp Suite](https://img.shields.io/badge/Burp-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white&logoSize=auto)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white&logoSize=auto)
-![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white&logoSize=auto)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white&logoSize=auto)
-![Ghidra](https://img.shields.io/badge/Ghidra-DD2A29?style=for-the-badge&logo=nsa&logoColor=white&logoSize=auto)
-![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-4A90A4?style=for-the-badge&logo=owasp&logoColor=white&logoSize=auto)
-
-</div>
-
-<div align="center">
-
-### 🔧 Infrastructure
-
-</div>
-
-<div align="center">
-
-![Arch Linux](https://img.shields.io/badge/Arch-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white&logoSize=auto)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&logoSize=auto)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&logoSize=auto)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&logoSize=auto)
-
-</div>
+- **Core Languages:** Rust, C, C++, Python
+- **Security Tools:** Kali Linux, Nmap, Wireshark, Burp Suite, Ghidra
+- **Infrastructure:** Linux (Arch), Docker, Git
 
 ---
 
-<div align="center">
+### 📊 GitHub Stats
 
-## ⚡ Connection — Summon Me
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=TheGod0fWar&show_icons=true&theme=nord&hide_border=true" alt="TheGod0fWar's GitHub stats" />
+</p>
 
-[![GitHub](https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white&logoSize=auto)](https://github.com/TheGod0fWar)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoSize=auto)](https://linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&logoSize=auto)](mailto:your.email@example.com)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&logoSize=auto)](https://discord.gg/your-server)
-
-</div>
-
-<div align="center">
-
-<br>
-
-```
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                                                                              ║
-║   "The cycle ends here. I must simply... be better."                         ║
-║                                          — Kratos, God of War Ragnarök      ║
-║                                                                              ║
-║   ⚔️  Open for: Penetration Testing • Security Audits • Bug Bounties        ║
-║                                                                              ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-```
-
-</div>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheGod0fWar&layout=compact&theme=nord&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
-<div align="center">
+### 📫 Connect with me
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer&text=%CE%A9+GHOST+OF+SPARTA+%CE%A9&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=60" width="100%">
+<p align="left">
+  <a href="https://github.com/TheGod0fWar"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-![Visitors](https://profile-counter.glitch.me/TheGod0fWar/count.svg)
-
-</div>
+<p align="center">
+  <i>"Simplicity is the soul of efficiency."</i>
+</p>
