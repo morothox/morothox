@@ -1,58 +1,43 @@
-# Hi there, I'm TheGod0fWar 👋
+# TheGod0fWar
 
-I am a **Computer Science student** with a deep-seated passion for **System Design** and **Cybersecurity**. I enjoy peeling back the layers of complex software to understand how it works and how to make it more resilient.
-
----
-
-### 🚀 At a Glance
-
-- 🎓 **Focus:** High-performance systems and secure software architectures.
-- 🏗️ **System Design:** Interested in distributed systems, operating systems, and database internals.
-- 🛡️ **Cybersecurity:** Focused on binary exploitation, reverse engineering, and building secure-by-default systems.
-- 🦀 **Rust Enthusiast:** Leveraging memory safety and zero-cost abstractions to build robust tools.
-- 💻 **Low-Level Dev:** Proficient in **C**, **C++**, and **Python** for both systems programming and automation.
+Computer Science student specializing in System Design and Cybersecurity.
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### Professional Summary
 
-| Category | Tools & Languages |
-| :--- | :--- |
-| **Languages** | ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust) ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python) |
-| **Security** | `Ghidra` `Burp Suite` `Wireshark` `Nmap` `Metasploit` |
-| **Systems** | `Linux (Arch)` `Docker` `eBPF` `Kernel Dev` |
-| **Others** | `Git` `CI/CD` `SQL` `JavaScript` |
+I focus on the architecture and security of low-level systems. My work involves leveraging modern systems languages to build performant, secure, and scalable infrastructure. I am particularly interested in the engineering challenges of distributed systems and the technical depth of binary exploitation.
 
 ---
 
-### 🔍 Current Focus
+### Technical Expertise
 
-- 🔭 **Working on:** Developing a custom microkernel-inspired project in Rust.
-- 📚 **Learning:** Advanced exploitation techniques and distributed consensus algorithms (Raft/Paxos).
-- ⚡ **Interest:** Optimizing low-level I/O performance in asynchronous systems.
+**Programming Languages**
+*   **Rust**: Building memory-safe, high-concurrency systems.
+*   **C / C++**: Low-level systems engineering and performance optimization.
+*   **Python**: Tooling, automation, and security research.
 
----
-
-### 📊 GitHub Insights
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheGod0fWar&show_icons=true&theme=nord&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheGod0fWar&layout=compact&theme=nord&hide_border=true" alt="Top Languages" />
-</p>
+**Domains of Interest**
+*   **System Design**: Distributed consensus (Raft), kernel development, and eBPF.
+*   **Cybersecurity**: Reverse engineering, exploit development, and hardware security.
+*   **Operations**: Linux systems administration (Arch), containerization (Docker), and automation.
 
 ---
 
-### 📫 Get In Touch
+### Active Research & Development
 
-<p align="left">
-  <a href="https://github.com/TheGod0fWar"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-</p>
+*   **Microkernel Architecture**: Implementing a capability-based system in Rust.
+*   **High-Performance Networking**: Researching zero-copy I/O and user-space network stacks.
+*   **System Security**: Analyzing memory corruption vulnerabilities in kernel-space.
+
+---
+
+### Connect
+
+[GitHub](https://github.com/TheGod0fWar) &nbsp;&bull;&nbsp; [LinkedIn](https://linkedin.com/in/your-profile) &nbsp;&bull;&nbsp; [Email](mailto:your.email@example.com)
+
+---
 
 <p align="center">
-  <i>"Control the systems, or the systems will control you."</i>
+  <img src="https://github-readme-stats.vercel.app/api?username=TheGod0fWar&show_icons=true&theme=default&hide_border=true&title_color=000&icon_color=000&text_color=333" alt="GitHub Stats" />
 </p>
