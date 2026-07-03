@@ -29,18 +29,6 @@ I am a student deeply interested in **System Design** and **Cybersecurity**. I l
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheGod0fWar&show_icons=true&theme=nord&hide_border=true" alt="TheGod0fWar's GitHub stats" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheGod0fWar&layout=compact&theme=nord&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
 ### 📫 Connect with me
 
 <p align="left">
