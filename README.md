@@ -1,4 +1,4 @@
-# Hi there, I'm TheGod0fWar 👋
+# Hi there, I'm **Morothox** 👋
 
 I am a student deeply interested in **System Design** and **Cybersecurity**. I love exploring how complex systems work under the hood and how to make them more secure and efficient.
 
