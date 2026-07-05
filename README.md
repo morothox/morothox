@@ -1,42 +1,74 @@
-# Hi there, I'm **Morothox** 👋
+<!-- The one animation: typing SVG -->
+<a href="https://github.com/morothox">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1000&color=38BDAE&center=true&vCenter=true&width=560&height=45&lines=Data+Analyst+%2B+ML+in+training;High+school+student+%26+triathlete;Swim.+Bike.+Run.+Commit." alt="Typing animation" />
+</a>
 
-I am a student deeply interested in **System Design** and **Cybersecurity**. I love exploring how complex systems work under the hood and how to make them more secure and efficient.
+<br/>
 
----
+<img src="https://img.shields.io/badge/Focus-Data%20%26%20ML-38BDAE?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/OS-Arch%20Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Sport-Triathlon-FF6B6B?style=for-the-badge&labelColor=0d1117" />
 
-### 🚀 About Me
+</div>
 
-- 🎓 Currently a student focusing on Computer Science.
-- 🏗️ Passionate about **System Design** and building scalable, low-level architectures.
-- 🛡️ Exploring the world of **Cybersecurity**, from binary exploitation to secure systems.
-- 🦀 Love working with **Rust** for its safety and performance guarantees.
-- 💻 Experienced in **C**, **C++**, and **Python**.
+<br/>
 
----
+## `whoami`
 
-### 🛠️ Tech Stack
+I'm **morothox** — a high school student who lives in two places: a terminal and a race
+course. I pull messy datasets apart until they say something useful, train models to make
+them predict, and log my own swim/bike/run telemetry so I can analyze it myself. Fundamentals
+first: I learn the math before the frameworks, and write C/C++ to know what's under the hood.
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<br/>
+
+## Toolbox
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,bash&theme=dark" alt="Languages" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=pytorch,sklearn,arch,docker,git,vim&theme=dark" alt="Tools" />
 </p>
 
-- **Core Languages:** Rust, C, C++, Python
-- **Security Tools:** Kali Linux, Nmap, Wireshark, Burp Suite, Ghidra
-- **Infrastructure:** Linux (Arch), Docker, Git
+| Area | Stack |
+|------|-------|
+| **Languages** | `Python` &nbsp; `C++` &nbsp; `C` &nbsp; `Bash` |
+| **Data / ML** | `PyTorch` &nbsp; `scikit-learn` &nbsp; `Pandas` &nbsp; `NumPy` |
+| **Environment** | `Arch Linux` &nbsp; `Docker` &nbsp; `Git` &nbsp; `Jupyter` |
 
----
+<br/>
 
-### 📫 Connect with me
+## Stats
 
-<p align="left">
-  <a href="https://github.com/TheGod0fWar"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
+<div align="center">
 
-<p align="center">
-  <i>"Simplicity is the soul of efficiency."</i>
-</p>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=morothox&show_icons=true&hide_border=true&bg_color=0d1117&title_color=38BDAE&icon_color=38BDAE&text_color=c9d1d9" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=morothox&layout=compact&hide_border=true&bg_color=0d1117&title_color=38BDAE&text_color=c9d1d9" alt="Top languages" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=morothox&hide_border=true&background=0d1117&ring=38BDAE&fire=FF6B6B&currStreakLabel=38BDAE&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9" alt="Streak" />
+
+</div>
+
+<br/>
+
+## Currently
+
+- Building small ML projects end to end — raw data → clean features → trained, evaluated model
+- Analyzing my own swim / bike / run training data
+- Reading more theory than tutorials, on purpose
+
+<br/>
+
+<div align="center">
+
+<a href="https://github.com/morothox"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-38BDAE?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<br/><br/>
+
+<sub><i>Swim. Bike. Run. Commit.</i></sub>
+
+</div>
