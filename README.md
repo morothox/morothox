@@ -15,10 +15,15 @@
 
 ## `whoami`
 
-I'm **morothox** — a high school student who lives in two places: a terminal and a race
-course. I pull messy datasets apart until they say something useful, train models to make
-them predict, and log my own swim/bike/run telemetry so I can analyze it myself. Fundamentals
-first: I learn the math before the frameworks, and write C/C++ to know what's under the hood.
+### 🚀 About Me
+
+- 🎓 Currently a student focusing on Computer Science.
+- 🏗️ Passionate about **System Design** and building scalable, low-level architectures.
+- 🛡️ Exploring the world of **Cybersecurity**, from binary exploitation to secure systems.
+- 🦀 Love working with **Rust** for its safety and performance guarantees.
+- 💻 Experienced in **C**, **C++**, and **Python**.
+
+---
 
 <br/>
 
