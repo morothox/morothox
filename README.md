@@ -1,84 +1,86 @@
+<!-- ============================================================= -->
+<!--  morothox · profile readme                                    -->
+<!-- ============================================================= -->
+
 <div align="center">
 
-<!-- ============ HEADER ============ -->
+<img src="./assets/banner.png" width="100%" alt="Data and endurance — a smooth analytics curve morphing into a heartbeat waveform" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0d1117,50:14343b,100:38BDAE&text=morothox&fontColor=e6edf3&fontSize=52&fontAlignY=38&desc=data%20%C2%B7%20machine%20learning%20%C2%B7%20endurance&descAlignY=58&descSize=18&animation=fadeIn" alt="header" />
+<br/>
 
-<a href="https://github.com/morothox">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=38BDAE&center=true&vCenter=true&width=600&lines=Student.+Triathlete.+Data+person.;Training+models+and+training+for+races.;Python+%E2%80%A2+C%2B%2B+%E2%80%A2+SQL+%E2%80%A2+Docker+%E2%80%A2+Arch;Consistency+beats+intensity." alt="Typing SVG" />
-</a>
+# morothox
+
+<p>
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&pause=1500&color=38BDAE&center=true&vCenter=true&width=560&height=32&lines=High+school+student.+Triathlete.+Data+person.;I+train+models+—+and+I+train+for+races.;Fundamentals+before+frameworks." alt="tagline" />
+  </a>
+</p>
 
 </div>
 
-<br/>
+<img src="./assets/divider.png" width="100%" alt="" />
 
 ## About
 
-I'm a high school student who spends most of my time in two places: in front of a terminal and on a race course.
+I'm a high school student who splits most of my time between a terminal and a race course.
 
-- **Data first.** I like taking messy datasets apart — cleaning, exploring, visualizing — until they actually say something. Currently going deeper into **machine learning**: classical models first, fundamentals before frameworks.
-- **Triathlete.** Swim, bike, run. Endurance sport taught me the same thing data did: you can't argue with the numbers, and progress comes from showing up every day.
-- **Low-level curious.** I write C and C++ because I want to know what's happening underneath the abstractions, and I daily-drive Arch Linux for the same reason.
-- **Right now:** building small ML projects end to end — from raw data to a trained, evaluated model — and logging my own training data to analyze it myself.
+Data is where I'm most at home — I like pulling messy datasets apart, cleaning and exploring them until they actually say something, then turning that into a chart or a model that holds up. Lately I'm going deeper into **machine learning**, working through the classical models and the math behind them before reaching for big frameworks.
 
-<br/>
+The rest of my hours go to **triathlon** — swim, bike, run. Endurance sport and data taught me the same lesson: the numbers don't lie, and progress is just the sum of days you showed up. I also log my own training data and analyze it myself, which is honestly where a lot of my curiosity started.
 
-<div align="center">
+On the technical side I stay close to the metal. I write **C** and **C++** because I want to understand what's happening beneath the abstractions, and I daily-drive **Arch Linux** for the same reason.
+
+- Building small ML projects end to end — raw data → clean features → trained, evaluated model.
+- Analyzing my own swim / bike / run telemetry.
+- Reading more theory than tutorials, on purpose.
+
+<img src="./assets/divider.png" width="100%" alt="" />
 
 ## Toolbox
 
-<table>
-<tr>
-<td align="center" width="33%">
-<strong>Languages</strong><br/><br/>
-<img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=38BDAE" alt="Python" /><br/>
-<img src="https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=38BDAE" alt="C++" /><br/>
-<img src="https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=38BDAE" alt="C" /><br/>
-<img src="https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=38BDAE" alt="SQL" />
-</td>
-<td align="center" width="33%">
-<strong>Data & ML</strong><br/><br/>
-<img src="https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=38BDAE" alt="Pandas" /><br/>
-<img src="https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=38BDAE" alt="NumPy" /><br/>
-<img src="https://img.shields.io/badge/scikit--learn-0d1117?style=for-the-badge&logo=scikitlearn&logoColor=38BDAE" alt="scikit-learn" /><br/>
-<img src="https://img.shields.io/badge/Jupyter-0d1117?style=for-the-badge&logo=jupyter&logoColor=38BDAE" alt="Jupyter" />
-</td>
-<td align="center" width="33%">
-<strong>Environment</strong><br/><br/>
-<img src="https://img.shields.io/badge/Arch_Linux-0d1117?style=for-the-badge&logo=archlinux&logoColor=38BDAE" alt="Arch Linux" /><br/>
-<img src="https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=38BDAE" alt="Docker" /><br/>
-<img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=38BDAE" alt="Git" /><br/>
-<img src="https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=38BDAE" alt="Bash" />
-</td>
-</tr>
-</table>
+<div align="center">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=python,cpp,c,bash&theme=dark" alt="Python, C++, C, Bash" />
+
+**Data &amp; Machine Learning**
+
+<img src="https://skillicons.dev/icons?i=pytorch,sklearn,anaconda,postgres&theme=dark" alt="PyTorch, scikit-learn, Anaconda, PostgreSQL" />
+
+**Environment**
+
+<img src="https://skillicons.dev/icons?i=linux,docker,git,vim&theme=dark" alt="Linux, Docker, Git, Vim" />
+
+<br/>
+<sub>Daily driver: <strong>Arch Linux</strong> · editor: <strong>Vim</strong> · notebooks in <strong>Jupyter</strong></sub>
 
 </div>
 
-<br/>
+<img src="./assets/divider.png" width="100%" alt="" />
+
+## By the numbers
 
 <div align="center">
 
-## Stats
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=morothox&show_icons=true&hide_border=true&bg_color=0d1117&title_color=38BDAE&icon_color=38BDAE&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=morothox&layout=compact&hide_border=true&bg_color=0d1117&title_color=38BDAE&text_color=c9d1d9&langs_count=8" alt="top langs" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=morothox&show_icons=true&hide_border=true&bg_color=0d1117&title_color=38BDAE&icon_color=38BDAE&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=morothox&layout=compact&hide_border=true&bg_color=0d1117&title_color=38BDAE&text_color=c9d1d9&langs_count=8" alt="Top languages" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=morothox&hide_border=true&background=0d1117&stroke=38BDAE&ring=38BDAE&fire=38BDAE&currStreakLabel=38BDAE&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=morothox&hide_border=true&background=0d1117&stroke=38BDAE&ring=38BDAE&fire=38BDAE&currStreakLabel=38BDAE&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="Contribution streak" />
 
 <br/><br/>
 
-<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=morothox&bg_color=0d1117&color=38BDAE&line=38BDAE&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=morothox&bg_color=0d1117&color=38BDAE&line=38BDAE&point=c9d1d9&area=true&hide_border=true" alt="Contribution activity graph" />
 
 </div>
 
-<br/>
-
-<div align="center">
+<img src="./assets/divider.png" width="100%" alt="" />
 
 ## Connect
+
+<div align="center">
 
 <a href="https://github.com/morothox">
   <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=38BDAE" alt="GitHub" />
@@ -94,8 +96,6 @@ I'm a high school student who spends most of my time in two places: in front of 
 
 <br/><br/>
 
-<sub>Swim. Bike. Run. Commit.</sub>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:38BDAE,50:14343b,100:0d1117&section=footer" alt="footer" />
+<sub><i>Swim. Bike. Run. Commit.</i></sub>
 
 </div>
