@@ -17,8 +17,8 @@
 
 ### 🚀 About Me
 
-- 🎓 Currently a student focusing on Computer Science.
-- 🏗️ Passionate about **System Design** and building scalable, low-level architectures.
+- 🎓 Currently a student focusing on Data Science.
+- 🏗️ Passionate about **Data** and analyzing low-level systems.
 - 🛡️ Exploring the world of **Cybersecurity**, from binary exploitation to secure systems.
 - 🦀 Love working with **Rust** for its safety and performance guarantees.
 - 💻 Experienced in **C**, **C++**, and **Python**.
