@@ -1,6 +1,6 @@
 <!-- The one animation: typing SVG -->
 <a href="https://github.com/morothox">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1000&color=38BDAE&center=true&vCenter=true&width=560&height=45&lines=Data+Analyst+%2B+ML+in+training;High+school+student+%26+triathlete;Swim.+Bike.+Run.+Commit." alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1000&color=38BDAE&center=true&vCenter=true&width=560&height=45&lines=Data+Analyst+%2B+ML;High+school+student+%26+triathlete;Swim.+Bike.+Run.+Commit." alt="Typing animation" />
 </a>
 
 <br/>
